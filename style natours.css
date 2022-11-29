@@ -646,6 +646,7 @@ body {
 	transform: translateY(-1px);
 	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
 }
+
 .btn--white {
 	background-color: #fff;
 	color: #777;
@@ -1368,7 +1369,7 @@ body {
 		float: none;
 	}
 }
-.navigation__checkbox {
+/* .navigation__checkbox {
 	display: none;
 }
 .navigation__button {
@@ -1592,4 +1593,4 @@ body {
 	.book__form {
 		width: 100%;
 	}
-}
+} */
